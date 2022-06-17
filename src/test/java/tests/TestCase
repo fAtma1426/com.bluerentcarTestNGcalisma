@@ -31,7 +31,7 @@ NEGATİF TEST CASE
 
 1- https://www.bluerentalcars.com/ bu url ye git
 2- anasayfadaki login butonuna bas
-3- login aşaasında email adress kısmına yanlış maili gir "client@bluerentalcars.com"
+3- login aşaasında email adress kısmına yanlış maili gir https://github.com/my-yilmaz/MYSQL.git
 4- login aşamasında password kısmına yanlış şifreyi gir "54321"
 5- giris butonuna tiklayiniz
 6- giremediğini kontrol etmek için sağ ustte gelen yazının "invalid credentials" oldugunu kontrol edelim.

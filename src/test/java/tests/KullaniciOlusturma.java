@@ -48,5 +48,6 @@ public class KullaniciOlusturma {
                 sendKeys(faker.internet().password()).
                 sendKeys(Keys.PAGE_DOWN).perform();
 
+
     }
 }
