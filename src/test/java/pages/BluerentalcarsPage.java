@@ -32,5 +32,5 @@ public class BluerentalcarsPage {
 
     @FindBy(name = "firstName")
 
-    public WebElement firstNameElementi;.
+    public WebElement firstNameElementi;
 }
